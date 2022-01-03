@@ -1,0 +1,14 @@
+.search {
+  width: 100%;
+  padding: 10px;
+  color: $nord0;
+  background-color: $nord6;
+  font-weight: 700;
+  border: 1px solid rgba(46, 52, 64, 0.7);
+  border-radius: 5px;
+  box-shadow: inset 2px 2px 2px rgb(179, 176, 176);
+
+  &:focus {
+    outline: 0;
+  }
+}

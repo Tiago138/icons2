@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap");
+
+@font-face {
+  font-family: openiconic;
+  src: url("../fonts/open-iconic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: $nord3;
+  font-family: "Fira Code", monospace;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 10px;
+
+  .black {
+    color: $nord0;
+  }
+
+  .white {
+    color: $nord6;
+  }
+
+  .aurora1 {
+    color: $nord11;
+  }
+
+  .aurora2 {
+    color: $nord12;
+  }
+
+  .aurora3 {
+    color: $nord13;
+  }
+
+  .aurora4 {
+    color: $nord14;
+  }
+
+  .aurora5 {
+    color: $nord15;
+  }
+
+  .frost1 {
+    color: $nord7;
+  }
+
+  .frost2 {
+    color: $nord8;
+  }
+
+  .frost3 {
+    color: $nord9;
+  }
+
+  .frost4 {
+    color: $nord10;
+  }
+}
